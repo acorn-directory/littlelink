@@ -187,7 +187,9 @@ a:hover {
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,button {
-	display:inline-flex;
+	--button-text: #000000;
+    --button-background: #ff0000;
+    display:inline-flex;
 	align-items:center;
 	justify-content:center;
 	width:18.75rem;             	/* 300px */
