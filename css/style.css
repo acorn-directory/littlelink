@@ -198,7 +198,7 @@ a:hover {
 	text-decoration:none;
 	white-space:normal;
   	background-color:var(--button-background,transparent);
-	color:var(--button-text,#000000);
+	color:var(--button-text,#ffffff);
 	border:var(--button-border,none);
 	border-radius:0.5rem;
 	cursor:pointer;
